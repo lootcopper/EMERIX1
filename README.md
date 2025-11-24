@@ -2,6 +2,10 @@
 
 Emerix helps you find nearby hospitals and predicts ER wait times using real-time data and advanced AI analysis. It's designed to help you make informed decisions in urgent situations, so you can get care faster and with less stress.
 
+https://www.youtube.com/watch?v=0FDiMlQdPlc
+
+<img width="1035" height="582" alt="image" src="https://github.com/user-attachments/assets/6d3122da-2b09-4733-92e2-fd2cf41058f9" />
+
 ## Features
 
 - **Location-Based Hospital Discovery**: Find nearby hospitals using Google Places API
